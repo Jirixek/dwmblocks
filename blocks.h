@@ -6,7 +6,7 @@ static const Block blocks[] = {
 	{"",   "~/.local/bin/desktop/statusbar/cputemp",      10,         0},
 	{"",   "~/.local/bin/desktop/statusbar/battery",      30,         0},
 	{"",   "~/.local/bin/desktop/statusbar/volume",       30,         1},
-	{"",   "~/.local/bin/desktop/statusbar/layout",       30,         2},
+	{"",   "~/.local/bin/desktop/statusbar/layout",        5,         2},
 	{" ", "~/.local/bin/desktop/statusbar/clock",         5,         0},
 };
 
